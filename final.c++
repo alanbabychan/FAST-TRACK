@@ -10,7 +10,7 @@ enum state
     login_system
 };
 
- 
+  
 struct Node
 {
     char name[20];
