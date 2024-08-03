@@ -375,7 +375,7 @@ void Train::show()
   }
   if (n > p)
     cout << "Enter correct train no: ";
-}
+} 
 
 //function used to print the seat details in matriex form
 void Train::position(int l)
