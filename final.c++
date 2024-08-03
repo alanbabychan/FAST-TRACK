@@ -240,6 +240,7 @@ void vline(char ch)
     cout << ch;
 }
 
+
 //function used to install a new train in the system
 void Train::install()
 {
