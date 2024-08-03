@@ -76,6 +76,7 @@ userprofile *InitializeListing(userprofile *hello)
         }
     }
 
+
     fileopen.close();
     return text;
 }
