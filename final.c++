@@ -14,7 +14,7 @@ enum state
 struct Node
 {
     char name[20];
-    char gen[6];
+    char gen[6]; 
     int age;
     Node *link;
 };
