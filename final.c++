@@ -80,6 +80,7 @@ userprofile *InitializeListing(userprofile *hello)
     return text;
 }
 
+
 //function to add new user in linked list
 userprofile *Adding_new_client(userprofile *hello)
 {
