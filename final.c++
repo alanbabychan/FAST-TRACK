@@ -223,7 +223,7 @@ public:
   //declaration of function used in train class
   void install();
   void allotment();
-  void empty();
+  void empty(); 
   void show();
   void avail();
   void position(int i);
