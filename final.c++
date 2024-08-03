@@ -141,7 +141,7 @@ userprofile *Adding_new_client(userprofile *hello)
     return trans;
 }
 
-// Function to login client
+// Function to login client 
 void login_client(userprofile *hello)
 {
     char client_username[100];
