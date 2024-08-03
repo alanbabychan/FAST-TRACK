@@ -10,7 +10,7 @@ enum state
     login_system
 };
 
-//Defining a structure
+
 struct Node
 {
     char name[20];
@@ -27,7 +27,7 @@ static int p = 0;
 enum state currentwindow = main_menu;
 char current_client[100];
 
-//Defining Structure for new users
+
 struct userprofile
 {
     char user_fname[100];
@@ -45,8 +45,7 @@ userprofile *InitializeListing(userprofile *);
 void logout_client();
 
 
-//User Management
-//Function for read from file
+
 userprofile *InitializeListing(userprofile *hello)
 {
     userprofile *text = nullptr, *petrol, temporary;
