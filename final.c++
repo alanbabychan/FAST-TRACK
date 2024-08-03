@@ -173,7 +173,7 @@ void login_client(userprofile *hello)
         }
         hello = hello->next;
     }
-
+ 
     cout << "Sorry, no such user record was found\n";
 }
 
