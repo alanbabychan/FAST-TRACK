@@ -1,1 +1,1 @@
-FAST-TRACK is an online platform to book Cab, Bus and Train Tickets for a hassle free experience. This booking portal is designed using C++.
+FAST-TRACK is a straightforward project developed in C++ that offers an online platform for booking cab, bus, and train tickets. It provides a user-friendly interface for hassle-free ticket reservations. By leveraging C++, the project ensures efficient and reliable management of bookings, aiming to streamline the travel experience for users by consolidating various transportation options into a single, easy-to-use portal.
